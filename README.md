@@ -11,4 +11,4 @@ Loan approval strategy success is awarded based on foresight and caution. These 
 2. Offer a 24-month and a 48-month term length for revenue. Customers flock towards 36 months, with <1% choosing a 12-month term length.
 3. Loans aged 25 months+, accrue 153% estimated return over Loans aged ~12 months. The APR, interest, and fees are the prime influences.
 4. Garner prospects through a campaign for "Excellent" credit scores. They are merely 6% of the profits, while having the 2nd highest average profit with unbeatable track records.
-5. Gross sales for the first semi-annual period of 2024 projected to be $97.5 million, with an error of $18.8 million *(confidence level 80% as per the Conservative Estimates GAAP principle).*
+5. Gross sales for the first semi-annual period of 2024 projected to be $97.5 million, with an error of $18.8 million *(confidence level 95% as per the Conservative Estimates GAAP principle).*
