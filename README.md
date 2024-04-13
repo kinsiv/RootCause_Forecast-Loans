@@ -1,4 +1,4 @@
-# Root Cause of Prosper's Loan Sales
+# Root Cause & Forecast of Prosper's Loan Sales
 Loan approval strategy success is awarded based on foresight and caution. These are only accomplished when an examination of both the customer and previous outcomes of customers with similar demographics is conducted. Any financial organization or bank understands that loans can be a complete miss. Situations happen where the loan is defaulted on, which can result in a total loss for the bank. Quantifying the measurements of instances like these, also of successful instances where the loan is paid in full, can create a model to predict the outcome. When this approach is taken, unrealized profit can be obtained while risk is mitigated. Industries around the globe classify customers in this manner. Prosper should have a similar process given its eligibility to do so. This project evaluates Prosper’s current model and provides a model that predicts if a customer’s loan will be a success or failure.
 
 ## Research Questions:
