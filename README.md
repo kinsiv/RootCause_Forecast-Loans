@@ -7,8 +7,28 @@ Loan approval strategy success is awarded based on foresight and caution. These 
 3. Are there certain customer demographics that are opportunistic towards loans?
 
 ## Actionable & Business Insights:
-1. Incentivize loyalty rewards for customers of lower affluence ($25,000 - $49,999). The estimated return from other Income Ranges has a 67% chance to be less.
-2. Offer a 24-month and a 48-month term length for revenue. Customers flock towards 36 months, with <1% choosing a 12-month term length.
+1. Gross sales for the first semi-annual period of 2024 projected to be $94.4 million, with an error of $2.02 million *(confidence level 80% as per the Conservative Estimates GAAP principle).*
+
+[![image](https://github.com/kinsiv/RootCause_Forecast_Loans/assets/89998643/9ca079bb-2abc-434d-bb63-30d4f5609459)](https://gyazo.com/8e5fa0fe6fb212dd20330c36ce87f8b5)
+
+
+
+2. Offer a 24-month and a 48-month term length for revenue. Customers flock towards 36 months, with 1% choosing a 12-month term length.
+
+![image](https://github.com/kinsiv/RootCause_Forecast_Loans/assets/89998643/c2254c78-0d40-4deb-bfda-7c5d2d0b14f1)
+
+
+
 3. Loans aged 25 months+, accrue 153% estimated return over Loans aged ~12 months. The APR, interest, and fees are the prime influences.
+
+
+
 4. Garner prospects through a campaign for "Excellent" credit scores. They are merely 6% of the profits, while having the 2nd highest average profit with unbeatable track records.
-5. Gross sales for the first semi-annual period of 2024 projected to be $97.5 million, with an error of $18.8 million *(confidence level 95% as per the Conservative Estimates GAAP principle).*
+
+![image](https://github.com/kinsiv/RootCause_Forecast_Loans/assets/89998643/18778741-c555-453f-aa06-0def96438763)
+
+
+5. Incentivize loyalty rewards for customers of lower affluence ($25,000 - $49,999). Loaners have a 67% chance to provide an estimated return less than the average for this profitable income range.
+
+![image](https://github.com/kinsiv/RootCause_Forecast_Loans/assets/89998643/c2f613bd-5e21-43dc-8307-5bb953349fc0)
+
