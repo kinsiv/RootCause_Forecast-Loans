@@ -13,7 +13,7 @@ Loan approval strategy success is awarded based on foresight and caution. These 
 
 
 
-2. Offer a 24-month and a 48-month term length for revenue. Customers flock towards 36 months, with 1% choosing a 12-month term length.
+2. Offer a 48-month term length for revenue. Exclude 24 months to avoid customers downgrading from 36 months. This is due to 1% choosing a 12-month term length.
 
 ![image](https://github.com/kinsiv/RootCause_Forecast_Loans/assets/89998643/c2254c78-0d40-4deb-bfda-7c5d2d0b14f1)
 
