@@ -9,7 +9,7 @@ Loan approval strategy success is awarded based on foresight and caution. These 
 ## Actionable & Business Insights:
 1. Gross sales for the first semi-annual period of 2024 projected to be $94.4 million, with an error of $2.02 million *(confidence level 80% as per the Conservative Estimates GAAP principle).*
 
-[![image](https://github.com/kinsiv/RootCause_Forecast_Loans/assets/89998643/9ca079bb-2abc-434d-bb63-30d4f5609459)](https://gyazo.com/8e5fa0fe6fb212dd20330c36ce87f8b5)
+[[![image](https://github.com/kinsiv/RootCause_Forecast_Loans/assets/89998643/9ca079bb-2abc-434d-bb63-30d4f5609459)](https://gyazo.com/8e5fa0fe6fb212dd20330c36ce87f8b5)](https://gyazo.com/7461a7e8626efca10c86c5536694bc65)
 
 
 
