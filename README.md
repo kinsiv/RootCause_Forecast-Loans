@@ -21,7 +21,7 @@ Loan approval strategy success is awarded based on foresight and caution. These 
 
 3. Loans aged 25 months+, accrue 153% estimated return over Loans aged ~12 months. The APR, interest, and fees are the prime influences.
 
-![image](https://github.com/kinsiv/RootCause_Forecast_Loans/assets/89998643/ce377973-cd50-46ee-bee1-74a7194e495a)
+![image](https://github.com/kinsiv/RootCause_Forecast_Loans/assets/89998643/87322dd2-0d44-400d-b293-b881aa4ddd5d)
 
 
 
