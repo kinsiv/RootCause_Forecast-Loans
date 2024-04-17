@@ -12,9 +12,11 @@ Loan approval strategy success is awarded based on foresight and caution. These 
 ![image](https://github.com/kinsiv/RootCause_Forecast_Loans/assets/89998643/9ca079bb-2abc-434d-bb63-30d4f5609459)
 
 
+
 2. Offer a 48-month or 24-month term length for revenue. This is due to 1% opting for a 12-month loan.
 
 ![image](https://github.com/kinsiv/RootCause_Forecast_Loans/assets/89998643/c2254c78-0d40-4deb-bfda-7c5d2d0b14f1)
+
 
 
 3. Loans aged 25 months+, accrue 153% estimated return over Loans aged ~12 months. The APR, interest, and fees are the prime influences.
@@ -22,9 +24,11 @@ Loan approval strategy success is awarded based on foresight and caution. These 
 ![image](https://github.com/kinsiv/RootCause_Forecast_Loans/assets/89998643/ce377973-cd50-46ee-bee1-74a7194e495a)
 
 
+
 4. Garner prospects through a campaign for "Excellent" credit scores. They are merely 6% of the profits, while having the 2nd highest average profit with unbeatable track records.
 
 ![image](https://github.com/kinsiv/RootCause_Forecast_Loans/assets/89998643/18778741-c555-453f-aa06-0def96438763)
+
 
 
 5. Incentivize loyalty rewards for customers of lower affluence ($25,000 - $49,999). Loaners have a 67% chance to provide an estimated return less than the average for this profitable income range.
