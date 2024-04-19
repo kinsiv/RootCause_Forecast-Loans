@@ -43,7 +43,8 @@ Loan approval strategy success is awarded based on foresight and caution. These 
     <img src="https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/2ae8ad63-a12e-40d9-9d18-b593d13c7f01" alt="Your Image"/>
 </div>
 
-5. Incentivize loyalty rewards for customers of lower affluence ($1 - $24,999). Loaners have a 68% chance to provide an estimated return less than the average for this profitable income range. They have an average of .102, confidence interval of [.1099, .1104] with a CL of 97.5%.
+5. Incentivize loyalty rewards for customers of lower affluence ($1 - $24,999). Loaners have a 68% chance to provide an estimated return less than the average for this profitable income range.
+* Average Estimate: .102, Confidence Interval: [.1099, .1104], CL: 97.5%
 
 ![image](https://github.com/kinsiv/RootCause_Forecast_Loans/assets/89998643/42ebae7a-21a8-44af-ade9-c13ffd1f82c1)
 
