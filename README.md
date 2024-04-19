@@ -25,7 +25,7 @@ Loan approval strategy success is awarded based on foresight and caution. These 
     <img src="https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/2ae8ad63-a12e-40d9-9d18-b593d13c7f01" alt="Your Image"/>
 </div>
 
-3. Loans aged 25 months+, accrue 153% estimated return over Loans aged ~12 months. The APR, interest, and fees are the prime influences. This plot is also evidence for the proposed 24-month & 48-month term length as having a wider revenue margin versus 12-month.
+3. Loans aged 25 months+, accrue 153% estimated return over Loans aged ~12 months. These facts & plot are evidence that 24-month & 48-month term length have a wider revenue margin than 12.
 * **Chance of loan having less return than 12 months: 32.28%** Estimated Average: $14048.96, Confidence Interval: [14046.83, 14051.09], CL: 97.5%
 * **Chance of loan having less return than 24 months: 62.17%** Estimated Average: $18049.87, Confidence Interval: [18035.58, 18064.16], CL: 97.5%
 * **Chance of loan having less return than 48 months: 54.78%** Estimated Average: $15894.17, Confidence Interval: [15888.73, 15899.61], CL: 97.5%
