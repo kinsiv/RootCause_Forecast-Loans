@@ -44,7 +44,7 @@ Loan approval strategy success is awarded based on foresight and caution. These 
 </div>
 
 5. Incentivize loyalty rewards for customers of lower affluence ($1 - $24,999). Loaners have a 68% chance to provide an estimated return less than the average for this profitable income range.
-* Average Estimate: .102, Confidence Interval: [.1099, .1104], CL: 97.5%
+* Estimate of Average: .102, Confidence Interval: [.1099, .1104], CL: 97.5%
 
 ![image](https://github.com/kinsiv/RootCause_Forecast_Loans/assets/89998643/42ebae7a-21a8-44af-ade9-c13ffd1f82c1)
 
