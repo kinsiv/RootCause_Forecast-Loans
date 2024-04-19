@@ -25,7 +25,7 @@ Loan approval strategy success is awarded based on foresight and caution. These 
     <img src="https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/2ae8ad63-a12e-40d9-9d18-b593d13c7f01" alt="Your Image"/>
 </div>
 
-3. Loans aged 25 months+, accrue 153% estimated return over Loans aged ~12 months. The APR, interest, and fees are the prime influences.
+3. Loans aged 25 months+, accrue 153% estimated return over Loans aged ~12 months. The APR, interest, and fees are the prime influences. This plots is also evidence for the 24-month term length being equally profitable on average to the 48-month.
 
 ![image](https://github.com/kinsiv/RootCause_Forecast_Loans/assets/89998643/87322dd2-0d44-400d-b293-b881aa4ddd5d)
 
