@@ -13,7 +13,7 @@ Loan approval strategy success is awarded based on foresight and caution. These 
 
 
 <div align="center">
-    <img src="https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/2ae8ad63-a12e-40d9-9d18-b593d13c7f01" alt="Your Image"/>
+    <img src="https://github.com/kinsiv/RootCause_Forecast-Loans/assets/89998643/228add64-2106-4793-ba37-e8980ea0f363" alt="Your Image"/>
 </div>
 
 2. Offer a 48-month or 24-month term length for revenue. This is due to 1% opting for a 12-month loan while having low profitability.
