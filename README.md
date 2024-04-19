@@ -19,7 +19,7 @@ Loan approval strategy success is awarded based on foresight and caution. These 
 2. Offer a 48-month or 24-month term length for revenue. This is due to 1% opting for a 12-month loan while having low profitability.
 
 <div align="center">
-    <img src="https://i.gyazo.com/0ceb26765857cb2365f412499183707b.png" alt="Your Image"/>
+    <img src="https://i.gyazo.com/fd76e325e2d14d4b89431ef2eddfb944.png" alt="Your Image"/>
 </div>
 
 <div align="center">
