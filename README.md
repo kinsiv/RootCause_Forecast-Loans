@@ -27,7 +27,7 @@ Loan approval strategy success is awarded based on foresight and caution. These 
 
 3. Loans aged 24 months+, accrue 153% estimated return over Loans aged only 12. These facts & plot are evidence that 24-month & 48-month term length have a wider revenue margin than 12.
 * **Chance loan has less return than 12 months: 32.28%**
-** Estimated Average: $14048.96, Confidence Interval: [14046.83, 14051.09], CL: 97.5%
+    * Estimated Average: $14048.96, Confidence Interval: [14046.83, 14051.09], CL: 97.5%
 * **Chance loan has less return than 24 months: 62.17%** Estimated Average: $18049.87, Confidence Interval: [18035.58, 18064.16], CL: 97.5%
 * **Chance loan has less return than 48 months: 54.78%** Estimated Average: $15894.17, Confidence Interval: [15888.73, 15899.61], CL: 97.5%
 
