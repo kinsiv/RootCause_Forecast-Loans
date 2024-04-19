@@ -26,7 +26,7 @@ Industries worldwide leverage predictive modeling to categorize customers and an
     <img src="https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/2ae8ad63-a12e-40d9-9d18-b593d13c7f01" alt="Your Image"/>
 </div>
 
-3. Loans aged 24 months+ accrue 153% estimated return over Loans aged only 12. These facts & plot are evidence that 24-month & 48-month term lengths have a wider revenue margin than 12.
+3. Loans aged 24 months+ accrue 1.53x return over Loans aged only 12. These facts & plot are evidence that 24-month & 48-month term lengths have a wider revenue margin than 12.
 * **Chance loan has less return than 12 months: 32.28%**
     * Estimated Average: $14048.96, Confidence Interval: [14046.83, 14051.09], CL: 97.5%
 * **Chance loan has less return than 24 months: 62.17%**
