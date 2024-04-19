@@ -26,6 +26,10 @@ Loan approval strategy success is awarded based on foresight and caution. These 
 </div>
 
 3. Loans aged 25 months+, accrue 153% estimated return over Loans aged ~12 months. The APR, interest, and fees are the prime influences. This plot is also evidence for the proposed 24-month & 48-month term length as having a wider revenue margin versus 12-month.
+* **Chance of loan having less return than 12 months: 32.28%** Estimate of Average: 14048.96, Confidence Interval: [14046.83, 14051.09], CL: 97.5%
+* **Chance of loan having less return than 24 months: 62.17%** Estimate of Average: 18049.87, Confidence Interval: [18035.58, 18064.16], CL: 97.5%
+* **Chance of loan having less return than 48 months: 54.78%** Estimate of Average: 15894.17, Confidence Interval: [15888.73, 15899.61], CL: 97.5%
+
 
 ![image](https://github.com/kinsiv/RootCause_Forecast_Loans/assets/89998643/87322dd2-0d44-400d-b293-b881aa4ddd5d)
 
