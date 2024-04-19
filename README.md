@@ -7,7 +7,7 @@ Industries worldwide leverage predictive modeling to categorize customers and an
 3. Are there certain customer demographics that are opportunistic towards loans?
 
 ## Actionable & Business Insights:
-1. Gross sales for the first semi-annual period of 2024 projected to be $94.4 million, with an error of $2.02 million *(confidence level 80% as per the Conservative Estimates GAAP principle).*
+1. Gross sales for the first semi-annual period of 2024 projected to be $94.4 million, with an error of $18.2 million *(confidence level 80% as per the Conservative Estimates GAAP principle).*
 
 ![image](https://github.com/kinsiv/RootCause_Forecast_Loans/assets/89998643/9ca079bb-2abc-434d-bb63-30d4f5609459)
 
